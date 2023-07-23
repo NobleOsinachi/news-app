@@ -1,7 +1,5 @@
-Sure, I'll help you generate the README with the "Copy Code" button for the provided project information. Here's the updated version of the README in raw Markdown format with the "Copy Code" button:
-
-```markdown
-# news-app built with next.js and bootstrap
+ 
+# Next JS News App using Bootstrap
 
 ## Description
 
@@ -13,7 +11,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/news-app.git
+   git clone https://github.com/NobleOsinachi/news-app.git
    ```
 2. Navigate to the project directory.
    ```bash
@@ -41,7 +39,7 @@ We welcome contributions from the community. To contribute to the project, follo
 1. Fork the repository on GitHub.
 2. Clone your forked repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/news-app.git
+   git clone https://github.com/NobleOsinachi/news-app.git
    ```
 3. Create a new branch for your feature or bug fix.
    ```bash
@@ -61,9 +59,4 @@ We welcome contributions from the community. To contribute to the project, follo
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-[![COPY CODE](https://img.shields.io/badge/COPY-CODE-blue?style=for-the-badge)](https://raw.githubusercontent.com/your-username/news-app/main/README.md)
-```
-
-The "Copy Code" button is represented as a badge at the bottom of the README. When users click on the badge, it will copy the entire README to their clipboard, allowing them to easily use it for their GitHub repository. Note that you should replace "your-username" in the link with your actual GitHub username or organization name.
