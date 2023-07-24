@@ -1,0 +1,189 @@
+Help me revise my resume. My experience is as a full stack .net developer in the FinTech indusrty. Been programming since 2015, but started building real world appls in 2019. Tailor my CV to be more focused on this job ad requirements. Use my CV for reference to my past experivnce in this role. Use these information to tailor my cv to match these standards as specified by ATS.
+
+The best CV style that ATS accepts to have a higher response rate is the reverse chronological format. This format lists your work experience in reverse chronological order, with your most recent position listed first. This is the most common and most ATS-compatible format.
+Here are some tips for writing an ATS-friendly CV:
+* Use a simple, easy-to-read font, such as Times New Roman or Arial.
+* Use a font size of 10 or 12 points.
+* Use white space to make your CV easy to scan.
+* Use keywords from the job description throughout your CV.
+* Use active verbs to describe your skills and experience.
+* Quantify your accomplishments whenever possible.
+* Proofread your CV carefully before submitting it.
+* Use a consistent format throughout your CV.
+* Use keywords throughout your CV, but don't overdo it.
+* Tailor your CV to the specific job you are applying for.
+* Proofread your CV carefully before submitting it.
+
+
+ Make sugestions on how I can improve mine to match the job ad. Provide a more inpressive RESUMe. Use these tips to increase my chances of having my CV stand out from the crowd and get me noticed by potential employers.
+
+This is the JOB AD i want to apply for
+
+````
+
+Junior .Net Full Stack Developer - Plano
+‍A few things you can expect to jump in on right away:
+Proficient in .NET technology preferred (C#) & MS SQL WWF/WCF/WPF
+Proficiency in.NET Framework & NET Technology preferred (C#) is necessary
+Knowledge and working experience in MS SQL2008,2012,2014
+Good understanding of object-oriented programming (OOPs)
+Expertise in designing and working with MVC architecture is necessary
+JQuery, AJAX, Bootstrap, Web API
+Knowledge of security implications of web applications and have experience designing secure web applications
+Ability to document all development-related activities
+Provide support for all technical requirements to include problem identification, reporting, analysis and resolution
+Proficient understanding of code versioning tools such as Git /Mercurial / SVN
+While we care more about bringing the right person onto our team over skills, we anticipate top candidates would meet the following criteria:
+
+Bachelor’s degree relevant to Computer Science
+Must have at least 1 year experience in related field
+Strong verbal and written communication skills with the ability to adapt to many different personalities and conflict resolution skills required
+Must have excellent organizational and time management skills with strong attention to detail
+Confidentiality with privacy-sensitive customer and employee documents
+Strong work ethic – demonstrate good attitude and judgment, discretion, and maintain a high level of confidentiality
+Be enthusiastic and a good team player
+Be self-motivated with a passion to code and willing to meet aggressive timelines
+Possess strong logical ability and thinking skills to meet Client Requirements in specified time
+We’re looking for a great teammate!
+Great companies are built by great teams who go above and beyond to delight customers.We’re eager to partner with someone that will use their knowledge, skills, and experience to make all of us—and our product—better.‍
+
+‍Passion for what you do:  The reality is our clients love us because we make something that is frustrating, easier, faster, and, um…kind of fun! We get excited about that! We enjoy the company of people who care about the problems we’re solving.‍
+Sense of ownership: Our mission is big and our vision bold. We succeed as a team by supporting each other and acting with a sense of ownership. We look for teammates that can make our product and our team better every day.‍
+An eye on the Vision: We want to hear your voice in our internal meetings and client engagements to help us shape the direction of our culture and team.‍
+Leadership: People are going to have to follow your lead, and the way youcommunicate and carry yourself is not something we gloss over.
+Perks!
+At AmplifAI, we’re excited to build a team and culture that reflects our values. While we work hard to solve complex challenges for our customers, we believe strongly in a healthy work-life balance for our team. We offer a generous package of employee benefits and some unconventional perks as part of our commitment to employee development. These include:
+
+Multiple health insurance plan options (medical, dental, vision) to keep you and the ones you love healthy.
+We offer unlimited personal vacation.
+A 401K plan in the making!
+Coffee and cold beer!  We’ve designed the space to have lots of different areas and options where you can work.  We also offer flexibility to work from home.
+More about us!
+We recently secured our Series A funding and are thrilled to be able to expand our team. The people engagement category needs some disruption and despite being a young organization, we’re the recognized industry leaders that large enterprises are leaning on. In fact, we’re disrupting the industry and people are noticing! Just check out some of the recent features in Venture Beat, Dallas Business Journal, Dallas Innovates, and other publications around Texas that are excited about our growth opportunities.
+
+We’ve also opened our doors to the world of academia allowing globally ranked universities such as The University of Texas at Dallas and Northwestern an environment to learn through robust practical experience.  Recently, a Master of Data Science Capstone team conducted an experiment to evaluate future employee performance prediction using AI and Machine Learning models (Watch the summary video). Thomas Miller, a Ph.D. Faculty Director at Northwestern’s School of Professional Studies stated, "As part of the data science capstone or thesis research, as well as in other Northwestern courses, students learn by addressing real business problems. We encourage students to work with businesses like AmplifAI. This is practical, experiential learning at its best.”
+
+About AmplifAI 
+AmplifAI is pioneering the development of artificial intelligence to revolutionize employee enablement, especially within a hybrid environment. We transform data into actions that are dynamically modeled after high performers to drive organizational results. Our comprehensive, self-learning platform helps the largest global enterprises to accelerate business outcomes, increase productivity, and improve employee engagement.
+
+AmplifAI is on a mission to help people-centric enterprises elevate the performance and development of their front-line employees.  We are looking for creative individuals to help us lead the market through continuous innovation to deliver the best AI-powered people enablement platform. We are in search of like-minded individuals who look at the problem in a way that others have not and develop a solution that generates value for both the customer and AmplifAI.  We are off to an amazing start, but we need to add great people to our team to fully realize our long-term vision.
+
+Reach out and get in touch!
+Enough about us!  We’d love to hear from you and more about your story!
+```
+
+
+This is my UPDATED CV.
+
+```
+CHUKWUKERE, NOBLE OSINACHI
+Contact:
++2349025778189
+chukwukerenoble98@gmail.com
+Portfolio: https://linktr.ee/NobleOsinachi
+GitHub: https://github.com/NobleOsinachi
+LinkedIn: https://linkedin.com/in/NobleOsinachi
+CAREER OBJECTIVE
+Results-driven and highly skilled programmer with experience in full stack development and a strong
+understanding of enterprise projects, seeking a challenging role where I can utilize my unique expertise and
+skillset to contribute to the success of any organization.
+PROFESSIONAL EXPERIENCE
+The InnerCity Mission for Children January 2022 – Date
+Ikeja, Lagos.
+Junior Software Engineer
+• Ensured the continuous maintenance of the company's suite of applications.
+• Created an automated system to generate birthday graphics and send via email on recipients' birthdays.
+• Collaborated with the UI/UX team to bring Figma designs to life by creating multiple webpages.
+• Created a page for displaying newsletters, with proper archiving and sorting.
+• Collaborated with a team to translate innovative ideas into high-quality code solutions.
+• Utilized Git extensively for efficient version control and collaborative development.
+• Generated comprehensive monthly reports highlighting updates and enhancements to the applications.
+• Ensured the smooth operation of applications, promptly addressing any issues as they arose.
+Infosight Limited July 2019 – January 2020
+Sangotedo, Ajah, Lagos.
+Software Developer (Intern)
+• Collaborated on full stack enterprise projects using ASP .NET, Entity Framework & SQL Server.
+• The UI used Razor Pages and Bootstrap to create view pages quickly.
+• I enhanced existing enterprise applications while fostering best development practices.
+• I created RESTful Web APIs, and tested them using Postman before consuming them.
+• I performed code reviews, unit testing of code components, debugging, and code optimization.
+• I attended weekly scrum meetings with CTO discussing project requirements and progress made.
+• I wrote code and API documentations in both Markdown and Document Formats.
+EDUCATION
+University of Lagos 2015 – 2021
+BSc. Systems Engineering
+• Object-Oriented Programming in C#
+• Algorithms and Data Structures
+• Optimum Systems Control
+PROJECTS WORKED ON
+1. Newsletter Archive System (Jan 2023): https://icm.ngo/newsletter
+• Created a dedicated page to host and showcase previously dispatched email newsletters.
+• Implemented a dynamic feature to automatically display the most recent newsletter in real-time..
+• Skills: PHP, MySQL, HTML5, Bootstrap
+2. Young Entrepreneurs Finance Scheme (YEFS) [Credit W orkflow] (Oct. 2019):
+• Project for UBA to grant low-interest loan facilities to young business owners.
+• Created APIs and wrote some controller codes using ASP.NET 5.
+• Integrated existing SOAP web services into the project.
+• Tested my APIs using Postman to ensure proper functionality before consuming them.
+• Skills: ASP.NET, C#, jQuery, Microsoft SQL Server, Entity Framework, LINQ.
+3. Vidly, Video Rental Application (Sept 2020): https://github.com/NobleOsinachi/Vidly
+• I developed an efficient video rental application using ASP.NET framework and SQL Server database.
+• Focused more on database design and optimization, authentication and access.
+• Fully responsive user interface, enabling customers to easily browse a collection of movies.
+• Skills: ASP .NET, Bootstrap CSS, HTML5 & Razor Pages, SQL Server, Datatables, jQuery
+5. Birthday Gifting Platform (Nov 2022): https://icm.ngo/pledgeYourBirthday
+• Developed a unique and automated birthday gifting project that creates personalized birthday e-cards.
+• Scheduled delivery of e-cards via email on recipients' birthdays.
+• Skills: PHP, GD Extension for Image & Text Manipulation, PHP Mailer, Cron Job
+5. Lakeview Library Management System (2020): https://github.com/NobleOsinachi/Library
+• Developed a simple library management system portal for a fictional library, LakeView.
+• Featured Patron profiling, inventory tracking and checkout systems.
+• Skills: C#, ASP .NET Core, Entity Framework Core, SQL Server, Material UI
+6. Partner W ith Us Landing Page (May 2023): https://icm.ngo/partnerWithUs
+• Co-developed a compelling call to action page for potential partners to join the work of the InnerCity Mission.
+• Integrated an email signup alert system to notify administrators whenever a new user registers for partnership.
+• Skills: PHP, MySQL, HTML5, CSS
+6. PRIME (July 2019):
+• Studied the codebase of PRIME, Infosight's core banking application for micro-finance institutes.
+• Gained understanding of software architecture and components.
+• Developed teamwork and communication skills.
+• Skills: ASP .NET, Web Forms, Stored Procedures, SQL
+SKILLS AND PROFICIENCIES LANGUAGES, FRAMEWORKS &
+SOFTWARE
+• Self-motivated, detail-oriented and organized.
+• Effective teamwork, communication, and listening skills.
+• Fast and eager learner, willing to learn other technologies.
+• Possess understanding of technical requirements.
+• Experience with object-relational mapping ORM using Entity
+Framework and writing LINQ using lazy loading.
+• Full stack development in both C# (ASP .NET MVC, Razor pages)
+and Javascript/Typescript (Angular, NextJS).
+• Knowledge and application of best software development practices
+and design patterns e.g., dependency injection, asynchronous
+programming etc.
+• Possess good understanding of SQL Server database (RDBMS).
+• Good OOP design, analysis and programming skills using C#, Web
+API, REST API.
+• Excellent troubleshooting skills on Windows 10 O.S. and Mac OS.
+• Experienced with Git workflow and version control using GitHub.
+C# ★★★★☆
+• ASP.NET MVC ★★★★☆
+• Web API ★★★★☆
+• REST API ★★★★☆
+• Entity Framework ★★★★☆
+Javascript ★★★★☆
+• Angular ★★★★☆
+• ReactJS ★★☆☆☆
+• NextJS ★★★☆☆
+• NodeJS ★★☆☆☆
+• jQuery ★★★★☆
+CSS ★★☆☆☆
+• Bootstrap ★★★★☆
+• Tailwind CSS ★★☆☆☆
+SQL ★★★★☆
+Visual Studio Code ★★★★☆
+Teams, Zoom, Meet ★★★★☆
+Postman ★★★★☆
+Solidity ★★★☆☆
+
+```

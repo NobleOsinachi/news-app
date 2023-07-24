@@ -1,27 +1,36 @@
+import { GetServerSideProps } from 'next';
+import NewsArticle from '@/models/NewsArticle';
+import NewsResponse from '@/models/NewsArticle';
 import Head from 'next/head';
 
-const Home: React.FC = () => {
-    return (
-        <div>
-            <Head>
-                <title>New Blog using Next JS</title>
-                <meta name="description" content="This blog fetches latest news from the News API." />
-                <link rel="icon" href="/favicon.ico" />
-            </Head>
+export const getServerSideProps: GetServerSideProps<
+  BreakingNewsPageProps
+> = async () => {
+  const response = await fetch(
+    `https://newsapi.org/v2/top-headlines?country=us&apiKey=${process.env.NEWS_API_KEY}`
+  );
+  const newsResponse: NewsResponse = await response.json();
 
-            {/* Your page content goes here */}
-            <main>
-                <h1>Welcome to the Default Page</h1>
-                <p>This is the content of the default index page.</p>
-            </main>
+  return { props: { newsArticles: newsResponse.articles } };
+};
 
-            {/* Add any other components, footer, etc. */}
-        </div>
-    );
+interface BreakingNewsPageProps {
+  newsArticles: NewsArticle[];
+}
+
+const Home: React.FC = ({ newsArticles }: BreakingNewsPageProps) => {
+  return (
+    <div>
+      <Head>
+        <title key='title'>Breaking News - NextJS News Blog</title>
+      </Head>
+
+      <main>
+        <h1>Breaking News</h1>
+        <code>{JSON.stringify(newsArticles)}</code>
+      </main>
+    </div>
+  );
 };
 
 export default Home;
-
-
-
-
