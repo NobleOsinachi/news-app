@@ -4,6 +4,7 @@ import '../styles/globals.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container } from 'react-bootstrap';
 import styles from '@/styles/App.module.css';
+import CustomNavbar from '@/components/CustomNavbar';
 
 const App: React.FC<AppProps> = ({ Component, pageProps }: AppProps) => {
   return (
@@ -13,7 +14,6 @@ const App: React.FC<AppProps> = ({ Component, pageProps }: AppProps) => {
         <title key='title'>Next JS News Blog</title>
         <meta
           name='description'
-          ls='noble'
           content='This blog fetches latest news from the News API.'
         />
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
@@ -21,8 +21,9 @@ const App: React.FC<AppProps> = ({ Component, pageProps }: AppProps) => {
         {/* Add any other meta tags or link tags you need */}
       </Head>
 
+      <CustomNavbar />
+
       <Container>
-        <div className={styles.red}>FLEHS</div>
         <Component {...pageProps} />
       </Container>
     </>
