@@ -16,7 +16,10 @@ const NewsArticleEntry: FC<NewsArticleEntryProps> = ({
       ? urlToImage
       : '/images/default.png';
   return (
-    <Link href={url}>
+    <Link href={url}
+      className="no-underline"
+
+    >
       <Card className='h-100'>
         <Card.Img src={validImageUrl} variant='top' />
         <Card.Body>
