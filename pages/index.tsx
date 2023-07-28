@@ -1,13 +1,12 @@
 import { GetServerSideProps } from 'next';
-import NewsArticle from '@/models/NewsArticle';
-import NewsResponse from '@/models/NewsArticle';
-import Head from 'next/head';
-import NewsArticleEntry from '@/components/NewsArticleEntry';
-import NewsArticlesGrid from '@/components/NewsArticlesGrid';
+import { NewsArticle } from '@/models/NewsArticle';
 
-export const getServerSideProps: GetServerSideProps<
-  BreakingNewsPageProps
-> = async () => {
+import Head from 'next/head';
+// import NewsArticleEntry from '@/components/NewsArticleEntry';
+import NewsArticlesGrid from '@/components/NewsArticlesGrid';
+import { NewsResponse } from '@/models/NewsResponse';
+
+export const getServerSideProps: GetServerSideProps<BreakingNewsPageProps> = async () => {
   const response = await fetch(
     `https://newsapi.org/v2/top-headlines?country=us&apiKey=${process.env.NEWS_API_KEY}`
   );
