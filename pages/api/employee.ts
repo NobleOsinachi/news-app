@@ -6,7 +6,7 @@ let employees: Employee[] = [
   { id: 2, name: 'Jane Smith', age: 25, department: 'HR' },
 ];
 
-export default interface Employee {
+export interface Employee {
   id: number;
   name: string;
   age: number;

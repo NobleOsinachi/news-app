@@ -4,6 +4,7 @@ import { Card } from 'react-bootstrap';
 import { FC, FunctionComponent } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import placeholderImage from "@/assets/images/placeholder.png"
 
 interface NewsArticleEntryProps {
   article: NewsArticle;
@@ -22,15 +23,16 @@ const NewsArticleEntry: FC<NewsArticleEntryProps> = ({
 
     >
       <Card className='h-100'>
-        <Card.Img src={validImageUrl} variant='top' />
+        {/* <Card.Img src={validImageUrl} variant='top' /> */}
 
-        {/* <Image
-          src={validImageUrl}
-          alt="Image description"
-          width={300} // Set the width of the image
+        <Image
+          className="card-img-top"
+          src={validImageUrl || placeholderImage}
+          alt={title}
+          width={500} // Set the width of the image
           height={200} // Set the height of the image
-          layout="responsive" // Choose "responsive" or "fixed"
-        /> */}
+          layout="fixed" // Choose "responsive" or "fixed"
+        />
 
         <Card.Body>
           <Card.Title>{title}</Card.Title>

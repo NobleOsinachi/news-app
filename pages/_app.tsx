@@ -2,9 +2,11 @@ import { AppProps } from 'next/app';
 import Head from 'next/head';
 import '../styles/globals.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Container } from 'react-bootstrap';
+import { Container, ProgressBar } from 'react-bootstrap';
 import styles from '@/styles/App.module.css';
 import CustomNavbar from '@/components/CustomNavbar';
+import CustomProgressBar from '@/components/CustomProgressBar';
+import NextNProgress from "nextjs-progressbar";
 
 const App: React.FC<AppProps> = ({ Component, pageProps }: AppProps) => {
   return (
@@ -20,6 +22,10 @@ const App: React.FC<AppProps> = ({ Component, pageProps }: AppProps) => {
         <link rel='icon' href='/favicon.ico' />
         {/* Add any other meta tags or link tags you need */}
       </Head>
+
+      <NextNProgress />
+
+      {/* <CustomProgressBar /> */}
 
       <CustomNavbar />
 
