@@ -28,8 +28,6 @@ const Home: React.FC<BreakingNewsPageProps> = ({
 
       <main>
         <h1>Breaking News</h1>
-        {/* <code>{JSON.stringify(newsArticles)}</code> */}
-
         <NewsArticlesGrid articles={newsArticles}></NewsArticlesGrid>
       </main>
     </div>

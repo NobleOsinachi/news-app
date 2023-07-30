@@ -1,7 +1,7 @@
 import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
 import Link from 'next/link';
-import { Category } from '@/pages/api/category';
 import { useEffect, useState } from 'react';
+import Category from '@/models/Category';
 
 const CustomNavbar = () => {
   const [categorySlugs, setCategorySlugs] = useState<Category[] | null>(null);

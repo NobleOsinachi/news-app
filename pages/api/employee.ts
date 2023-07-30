@@ -1,3 +1,4 @@
+import Employee from '@/models/Employee';
 import { NextApiRequest, NextApiResponse } from 'next';
 
 // Example data store (you may replace this with your actual data store like a database)
@@ -6,12 +7,14 @@ let employees: Employee[] = [
   { id: 2, name: 'Jane Smith', age: 25, department: 'HR' },
 ];
 
+/*
 export interface Employee {
   id: number;
   name: string;
   age: number;
   department: string;
 }
+*/
 
 const employeeHandler = (req: NextApiRequest, res: NextApiResponse) => {
   const { method } = req;

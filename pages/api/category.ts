@@ -1,3 +1,4 @@
+import Category from '@/models/Category';
 import { NextApiRequest, NextApiResponse } from 'next';
 
 // Example data store (you may replace this with your actual data store like a database)
@@ -11,11 +12,12 @@ let categories: Category[] = [
   { id: 7, name: "technology" }
 ];
 
-
+/*
 export interface Category {
   id: number;
   name: string;
 }
+*/
 
 const CategoryHandler = (req: NextApiRequest, res: NextApiResponse) => {
   const { method } = req;
