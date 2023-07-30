@@ -1,10 +1,8 @@
 import { GetServerSideProps } from 'next';
-import { NewsArticle } from '@/models/NewsArticle';
-
 import Head from 'next/head';
-// import NewsArticleEntry from '@/components/NewsArticleEntry';
 import NewsArticlesGrid from '@/components/NewsArticlesGrid';
-import { NewsResponse } from '@/models/NewsResponse';
+import NewsResponse from '@/models/NewsResponse';
+import NewsArticle from '@/models/NewsArticle';
 
 export const getServerSideProps: GetServerSideProps<BreakingNewsPageProps> = async () => {
   const response = await fetch(
