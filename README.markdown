@@ -1,34 +1,85 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# News App
+
+This is a simple News App built with Next.js and Tailwind CSS, fetching news content from the News API.
+
+## Live Deployment
+
+[![screenshot](screenshot.png)](https://news-app.vercel.app/)
+
+You can access the live deployment of the News App at [https://news-app.vercel.app/](https://news-app.vercel.app/).
+
+## Features
+
+- View the latest news articles from various sources.
+- Search for news articles by keywords.
+- Click on news articles to read the full content.
+
+## Technologies Used
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [News API](https://newsapi.org/)
 
 ## Getting Started
 
-First, run the development server:
+To run this project locally, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+1. Clone the repository:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```shell
+   git clone https://github.com/NobleOsinachi/news-app.git
+   ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. Navigate to the project directory:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+   ```shell
+   cd news-app
+   ```
 
-## Learn More
+3. Install dependencies:
 
-To learn more about Next.js, take a look at the following resources:
+   ```shell
+   npm install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Create a `.env.local` file in the project root and add your News API key:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   ```env
+   NEXT_PUBLIC_NEWS_API_KEY=your_api_key_here
+   ```
 
-## Deploy on Vercel
+   You can obtain an API key by signing up at [News API](https://newsapi.org/).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+5. Start the development server:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```shell
+   npm run dev
+   ```
+
+6. Open your browser and visit [http://localhost:3000/](http://localhost:3000/) to view the app.
+
+## How to Use
+
+- The app displays a list of the latest news articles by default.
+- Use the search bar to search for news articles by keywords.
+- Click on a news article to read the full content.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
+3. Make your changes and commit them: `git commit -m 'Add feature'`.
+4. Push to your fork: `git push origin feature-name`.
+5. Create a pull request to the `main` branch of the original repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
