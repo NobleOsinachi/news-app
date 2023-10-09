@@ -4,7 +4,7 @@ This is a simple News App built with Next.js and Tailwind CSS, fetching news con
 
 ## Live Deployment
 
-[![screenshot](/images/screenshot.png)](https://news-app.vercel.app/)
+[![screenshot](/public/images/screenshot.png)](https://news-app.vercel.app/)
 
 You can access the live deployment of the News App at [https://news-app-nobleosinachi.vercel.app/](https://news-app-nobleosinachi.vercel.app/).
 
