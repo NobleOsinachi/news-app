@@ -1,10 +1,10 @@
-# News App
+# News App Blog
 
 This is a simple News App built with Next.js and Tailwind CSS, fetching news content from the News API.
 
 ## Live Deployment
 
-[![screenshot](public/images/screenshot.png)](https://news-app.vercel.app/)
+[![screenshot](public/images/screenshot.png)](https://news-app-nobleosinachi.vercel.app/)
 
 You can access the live deployment of the News App at [https://news-app-nobleosinachi.vercel.app/](https://news-app-nobleosinachi.vercel.app/).
 
